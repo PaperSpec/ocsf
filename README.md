@@ -1,2 +1,2 @@
 # ocsf
-The Open Cocktail Specification Fomat
+The Open Cocktail Specification Format
