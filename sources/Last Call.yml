@@ -1,527 +1,526 @@
-source:
-  title: "Last Call"
-  subtitle: "Bartenders on Their Final Drink and the Wisdom and Rituals of Closing Time"
-  author: "Brad Thomas Parsons"
-  photographer: "Ed Anderson"
-  publisher: "Ten Speed Press"
-  specs:
-    - spec: "Suze and Tonic"
-      creator: "Lauren Corriveau"
-      makes: "1 Drink"
-      components:
-        - component: "Suze"
-          measure: "ounces"
-          quantity: 2
-        - component: "tonic water"
-      garnish: "lemon twist or lemon wedge"
-      notes: "Add Suze to a chilled collins glass filled with ice. Top with tonic water. Give it a quick stir and garnish with the lemon twist or lemon wedge."
-    - spec: "Susan Lucci"
-      creators:
-        - "Lauren Corriveau"
-        - "Amy Koffsky"
-      makes: "1 Drink"
-      components:
-        - component: "Suze"
-          measure: "ounce"
-          quantity: 0.75
-        - component: "Amaro Lucano"
-          measure: "ounce"
-          quantity: 0.75
-      notes: "Combine the Suze and Amaro Lucano in a shot glass or rocks glass. Knock it back."
-    - spec: "Margarita"
-      creator: "Natasha David"
-      components:
-        - component: "lime wedge"
-          notes: "(for rimming)"
-        - component: "kosher salt"
-          notes: "(for rimming)"
-        - component: "blanco tequila"
-          notes: "(preferably Siete Leguas blanco or El Tesoro platinum)"
-          measure: "ounces"
-          quantity: 2
-        - component: "Cointreau"
-          measure: "ounce"
-          quantity: 1
-        - component: "fresh lime juice"
-          measure: "ounce"
-          quantity: 0.75
-      garnish: "lime wedge"
-      notes: "Cut a small notch in the center of the lime wedge and run it around the rim of a chilled old-fashioned glass, gently squeezing the lime as you go. Pour a small pile of kosher salt onto a plate just wider than the diameter of the glass. Tip the lime-slicked glass onto its side, parallel to the plate, and gently roll the outside edge of half the glass in the salt, coating it with a 1/4-inch-thick layer. Fill the glass with Ice.\nCombine the tequila, Cointreau, and lime juice in a cocktail shaker filled with ice. Shake until chilled and strain into the salt-rimmed old-fashioned glass. Garnish with the lime wedge."
-    - spec: "Manhattan"
-      creator: "Aaron Polsky"
-      makes: "1 Drink"
-      components:
-        - component: "rye whiskey"
-          notes: "(preferably 18-year-old Sazerac)"
-          measure: "ounces"
-          quantity: 2
-        - component: "Cocchi Vermouth di Torino"
-          measure: "ounce"
-          quantity: 1
-        - component: "Angostura bitters"
-          measure: "dash"
-          quantity: 1
-      garnish: "3 Luxardo cherries"
-      notes: "Combine the whiskey, vermouth, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the cherries on a pick."
-    - spec: "French 75"
-      creator: "William Elliott"
-      makes: "1 Drink"
-      components:
-        - component: "Cognac"
-          notes: "(preferably Gourry de Chadeville)"
-          measure: "ounce"
-          quantity: 1
-        - component: "simple syrup"
-          notes: "(1:1 sugar:water)"
-          measure: "ounce"
-          quantity: 0.25
-        - component: "fresh lemon juice"
-          measure: "ounce"
-          quantity: 0.25
-        - component: "Champagne"
-          notes: "(preferably Bourgeois-Diaz), chilled"
-      garnish: "lemon twist"
-      notes: "Combine the Cognac, simple syrup, and lemon juice in a cocktail shaker filled with ice. Shake until chilled and strain into a chilled flute. Top with Champagne. Garnish with the lemon twist."
-    - spec: "Night Moves"
-      creator: "Guido Martelli"
-      makes: "1 Drink"
-      components:
-        - component: "lambrusco"
-          notes: "(chilled)"
-          measure: "ounces"
-          quantity: 2
-        - component: "Prosecco"
-          notes: "(chilled)"
-          measure: "ounces"
-          quantity: 2
-      notes: "Combine the lambrusco and Prosecco in a rocks glass. Salute!"
-    - spec: "Martini (Extra Dry)"
-      creator: "Guido Martelli"
-      makes: "1 Drink"
-      components:
-        - component: "London dry gin"
-          notes: "(preferably Bombay Dry Gin)"
-          measure: "ounces"
-          quantity: 2.5
-        - component: "dry vermouth"
-          notes: "(preferably Dolin Dry Vermouth de Chambéry)"
-          measure: "ounce"
-          quantity: 0.5
-        - component: "orange bitters"
-          measure: "dashes"
-          quantity: 2
-      garnish: "lemon twist"
-      notes: "Combine the gin, vermouth, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the lemon twist."
-    - spec: "Recoil"
-      creator: "Dylan O'Brien"
-      makes: "1 Drink"
-      components:
-        - component: "bourbon"
-          notes: "(preferably Bulleit)"
-          measure: "ounces"
-          quantity: 2
-        - component: "St-Germain elderflower liqueur"
-          measure: "ounce"
-          quantity: 0.75
-        - component: "fresh lime juice"
-          measure: "ounce"
-          quantity: 0.5
-        - component: "Ginger beer"
-          notes: "(preferably Fever-Tree)"
-      garnish: "lime wheel"
-      notes: "Combine the bourbon, elderflower liqueur, and lime juice in a cocktail shaker filled with ice. Shake until chilled and strain into a pint-size Mason jar filled with ice. Top with ginger beer. Garnish with the lime wheel."
-    - spec: "Revolver"
-      creator: "Jon Santer"
-      makes: "1 Drink"
-      components:
-        - component: "bourbon"
-          notes: "(preferably Bulleit)"
-          measure: "ounces"
-          quantity: 2
-        - component: "Tia Maria coffee liqueur"
-          measure: "ounce"
-          quantity: 0.5
-        - component: "orange bitters"
-          measure: "dashes"
-          quantity: 2
-      garnish: "flamed orange twist"
-      notes: "Combine the bourbon, coffee liqueur, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the flamed orange twist."
-    - spec: "Last Word"
-      creator: "Joseph Stinchcomb"
-      makes: "1 Drink"
-      components:
-        - component: "green Chartreuse"
-          measure: "ounce"
-          quantity: 1
-        - component: "gin"
-          notes: "(preferably London Dry style, like Beefeater or Tanqueray)"
-          measure: "ounce"
-          quantity: 0.75
-        - component: "maraschino liqueur"
-          measure: "ounce"
-          quantity: 0.5
-        - component: "fresh lime juice"
-          measure: "ounce"
-          quantity: 0.75
-      notes: "Combine the Chartreuse, gin, maraschino liqueur, and lime juice in a cocktail shaker filled with ice and shake until chilled. Strain into a chilled coupe glass."
-    - spec: "The Clyde"
-      creator: "Joseph Stinchcomb"
-      makes: "1 Drink"
-      components:
-        - component: "blanco tequila"
-          measure: "ounces"
-          quantity: 2
-        - component: "Roobios Tea Syrup"
-          notes: "(recipe follows)"
-          measure: "ounce"
-          quantity: 0.75
-        - component: "fresh lime juice"
-          measure: "ounce"
-          quantity: 0.75
-        - component: "Angostura bitters"
-          measure: "dashes"
-          quantity: 2
-      garnish: "fresh mint sprig"
-      notes: "Combine the tequila, tea syrup, lime juice, and bitters in a cocktail shaker filled with ice and shake until chilled. Strain into a chilled double old-fashioned glass over a large ice cube. Garnish with the mint sprig."
-    - spec: "Roobios Tea Syrup"
-      creator: "Joseph Stinchcomb"
-      makes: "2 cups"
-      components:
-        - component: "roobios tea"
-          measure: "bags"
-          quantity: 6
-        - component: "boiling water"
-          measure: "cups"
-          quantity: 1.5
-        - component: "sugar"
-          measure: "cups"
-          quantity: 1.5
-      notes: "Steep 6 roobios tea bags in 1.5 cups boiling water for 8 to 10 minutes. Discard the tea bags, add 1.5 cups sugar, and stir until the sugar dissolves. Let cool completely and store in a tightly capped glass jar. The syrup will keep in the refrigerator for up to 1 month."
-    - spec: "Sazerac"
-      creator: "Greg Best"
-      makes: "1 Drink"
-      components:
-        - component: "absinthe or Herbsaint"
-          notes: "(for rinsing, or do as Best does and just leave it in there)"
-          measure: "ounce"
-          quantity: 0.5
-        - component: "rye whiskey"
-          notes: "(preferably barrel proof)"
-          measure: "ounces"
-          quantity: 2
-        - component: "simple syrup"
-          notes: "(1:1 sugar:water)"
-          measure: "ounce"
-          quantity: 0.25
-        - component: "Peychaud's Bitters"
-          measure: "dashes"
-          quantity: 2
-        - component: "Angostura Bitters"
-          measure: "dashes"
-          quantity: 2
-      garnish: "lemon twist"
-      notes: "Add the absinthe to a chilled old-fashioned glass. Roll the glass around to coat the interior of the glass and shake out any excess liquid. Combine the whiskey, simple syrup, and both bitters in a mixing glass filled with ice. Stir until chilled and strain into the prepared glass. Express and garnish with the lemon twist."
-    - spec: "Death Row Sazerac"
-      creator: "Greg Best"
-      makes: "1 Drink"
-      components:
-        - component: "absinthe or Herbsaint"
-          notes: "(for rinsing, or do as Best does and just leave it in there)"
-          measure: "ounce"
-          quantity: 1
-        - component: "rye whiskey"
-          notes: "(preferably barrel proof)"
-          measure: "ounces"
-          quantity: 4.5
-        - component: "simple syrup"
-          notes: "(1:1 sugar:water)"
-          measure: "ounce"
-          quantity: 1
-        - component: "Peychaud's Bitters"
-          measure: "dashes"
-          quantity: 5
-        - component: "Angostura Bitters"
-          measure: "dashes"
-          quantity: 5
-      garnish: "lemon twist"
-      notes: "Add the absinthe to a chilled old-fashioned glass. Roll the glass around to coat the interior of the glass and shake out any excess liquid. Combine the whiskey, simple syrup, and both bitters in a mixing glass filled with ice. Stir until chilled and strain into the prepared glass. Express and garnish with the lemon twist."
-    - spec: "Grasshopper"
-      creator: "Jeffrey Morgenthaler"
-      makes: "1 Drink"
-      components:
-        - component: "green crème de menthe"
-          measure: "ounces"
-          quantity: 1.5
-        - component: "white crème de cacao"
-          measure: "ounces"
-          quantity: 1.5
-        - component: "half-and-half"
-          measure: "ounce"
-          quantity: 1
-        - component: "Fernet-Branca"
-          measure: "teaspoon"
-          quantity: 1
-        - component: "sea salt"
-          measure: "pinch"
-          quantity: 1
-        - component: "vanilla ice cream"
-          measure: "cup"
-          quantity: 0.5
-      garnish: "fresh mint sprig"
-      notes: "Combine the crème de menthe, crème de cacao, half-and-half, Fernet-Branca, salt, ice cream, and 1 cup crushed ice in a blender and blend on high speed until smooth. Pour into a tall chilled glass and garnish with the mint sprig."
-    - spec: "Appetizer A La Italienne"
-      creator: "Ezra Star"
-      makes: "1 Drink"
-      components:
-        - component: "Cocchi Vermouth di Torino"
-          measure: "ounces"
-          quantity: 2
-        - component: "Fernet-Branca"
-          measure: "ounce"
-          quantity: 1
-        - component: "absinthe"
-          notes: "(preferably Kübler absinthe)"
-          measure: "ounce"
-          quantity: 1
-        - component: "Demerara simple syrup"
-          notes: "(1:1 Demerara sugar: water)"
-          measure: "ounce"
-          quantity: 0.25
-      notes: "Combine the vermouth, Fernet-Branca, absinthe, and simple syrup in a mixing glass filled with ice. Stir until chilled and strain into a chilled mug or cup."
-    - spec: "Iced Tea"
-      creator: "Damon Boelte"
-      makes: "1 gallon"
-      components:
-        - component: "Lipton tea"
-          measure: "bags"
-          quantity: 9
-        - component: "simple syrup"
-          measure: "\"church it up\""
-          quantity: 1
-        - component: "Bénédictine"
-          measure: "splash"
-          quantity: 1
-      garnish: "slices of orange and lemon and fresh mint"
-      notes: "Place 3 Lipton family-size tea bags or 9 Lipton regular-size tea bags in a clean gallon jar and fill with cold water. Cap loosely and place in the sunshine for 3 to 4 hours. Remove the tea bags. Refrigerate within 5 hours of brewing. Serve in a tall glass over ice. \"Church it up\" with sugar or simple syrup and a splash of Bénédictine. Garnish with slices of orange and lemon and with fresh mint."
-    - spec: "Hard Start"
-      creator: "Damon Boelte"
-      makes: "1 Drink"
-      components:
-        - component: "Fernet-Branca"
-          measure: "ounce"
-          quantity: 0.5
-        - component: "Brancamenta"
-          measure: "ounce"
-          quantity: 0.5
-      notes: "Combine the Fernet-Branca and Brancamenta in a shot glass or chilled rocks glass. Knock it back. Boelte always keeps a pre-batched bottle of Hard Starts at his bar, in his home kitchen, for gifts, and for camping and beach trips."
-    - spec: "Old-fashioned"
-      creator: "Briana Volk"
-      makes: "1 Drink"
-      components:
-        - component: "rye whiskey"
-          notes: "(preferably Old Grand-Dad Bonded)"
-          measure: "ounces"
-          quantity: 2
-        - component: "rich simple syrup"
-          notes: "(2:1 sugar:water)"
-          measure: "teaspoon"
-          quantity: 1
-        - component: "Angostura bitters"
-          measure: "dashes"
-          quantity: 2
-      garnish: "cocktail cherry and orange twist"
-      notes: "Combine the whiskey, simple syrup, and bitters in a chilled double old-fashioned glass. Add a large cube and stir. Garnish with the cherry and orange twist."
-    - spec: "Trident"
-      creator: "Andrew Volk"
-      makes: "1 Drink"
-      components:
-        - component: "aquavit"
-          notes: "(preferably House Spirits Krogstad)"
-          measure: "ounce"
-          quantity: 1
-        - component: "Cynar"
-          measure: "ounce"
-          quantity: 1
-        - component: "fino sherry"
-          measure: "ounce"
-          quantity: 1
-        - component: "peach bitters"
-          measure: "dashes"
-          quantity: 2
-      garnish: "lemon twist"
-      notes: "Combine the aquavit, Cynar, sherry, and bitters in a mixing glass filled with ice. Srit until chilled and strain into a chilled coupe glass. Garnish with the lemon twist."
-    - spec: "Mezcal Negroni"
-      creator: "Brian Bartels"
-      makes: "1 Drink"
-      components:
-        - component: "mezcal"
-          notes: "(preferably Del Maguey Vida)"
-          measure: "ounce"
-          quantity: 1
-        - component: "Campari"
-          measure: "ounce"
-          quantity: 1
-        - component: "sweet vermouth"
-          measure: "ounce"
-          quantity: 1
-      garnish: "orange twist"
-      notes: "Build the mezcal, Campari, and sweet vermouth in an old-fashioned glass and give it a healthy 10- to 15-second stir. Garnish with the orange twist. Sip and smile and think of friends near and far."
-    - spec: "Negroni"
-      creator: "Shelby Allison"
-      makes: "1 Drink"
-      components:
-        - component: "Fords gin"
-          measure: "ounces"
-          quantity: 2
-        - component: "Campari"
-          measure: "ounce"
-          quantity: 0.75
-        - component: "Lustau vermut rojo"
-          measure: "ounce"
-          quantity: 0.75
-      garnish: "orange twist"
-      notes: "Build the gin, Campari, and vermut rojo in an old-fashioned glass filled with ice and stir until chilled. Garnish with the orange twist."
-    - spec: "Ti' Punch"
-      creator: "Paul McGee"
-      makes: "1 Drink"
-      components:
-        - component: "lime"
-          notes: "make sure it includes a small amount of flesh"
-          measure: "quarter-sized disk"
-          quantity: 1
-        - component: "Martinique cane syrup"
-          measure: "barspoon"
-          quantity: 1
-        - component: "Neisson L'Esprit rhum agricole blanc"
-          measure: "ounces"
-          quantity: 2
-      notes: "Squeeze the lime disk over an old-fashioned glass and drop it into the glass. Add the cane syrup and, using a barspoon, press against the lime disk to release its oils and integrate them with the syrup. Add a large ice cube and pour in the rhum. Give it a quick stir to dilute and cool down."
-    - spec: "The Assassin's Handbook"
-      creator: "Paul MacDonald"
-      makes: "1 Drink"
-      components:
-        - component: "Jamaican rum"
-          notes: "(preferably Appleton Signature Blend)"
-          measure: "ounce"
-          quantity: 1
-        - component: "Cognac"
-          notes: "(preferably Gilles Brisson VS)"
-          measure: "ounce"
-          quantity: 0.75
-        - component: "Mulled Wine Shrub"
-          notes: "(recipe follows)"
-          measure: "ounce"
-          quantity: 0.75
-        - component: "Averna"
-          measure: "ounce"
-          quantity: 0.5
-        - component: "Habañero Tincture"
-          notes: "(recipe follows)"
-          measure: "ounce"
-          quantity: 0.25
-      garnish: "orange twist"
-      notes: "Combine the rum, Cognac, shrub, Averna, and tincture in a mixing glass filled with ice and stir until chilled. Strain into a double old-fashioned class over a large ice cube. Garnish with the orange twist."
-    - spec: "Mulled Wine Shrub"
-      creator: "Paul MacDonald"
-      makes: "about 3 cups"
-      components:
-        - component: "granulated sugar"
-          measure: "cup"
-          quantity: 1
-        - component: "Demerara sugar"
-          measure: "cup"
-          quantity: 1
-        - component: "cinnamon stick"
-          notes: "splintered"
-          measure: "whole"
-          quantity: 1
-        - component: "nutmeg"
-          notes: "roughly cut"
-          measure: "whole"
-          quantity: 1
-        - component: "whole cloves"
-          measure: "teaspoon"
-          quantity: 1
-        - component: "allspice berries"
-          measure: "teaspoon"
-          quantity: 1
-        - component: "juniper berries"
-          measure: "teaspoon"
-          quantity: 1
-        - component: "star anise"
-          measure: "pod"
-          quantity: 1
-        - component: "peel of orange"
-          notes: "cut into wide strips"
-          measure: "whole"
-          quantity: 1
-        - component: "red wine vinegar"
-          measure: "cups"
-          quantity: 2
-      notes: "Combine both sugars, the cinnamon, nutmeg, cloves, allspice, juniper, star anise, and orange peel in a bowl and muddle lightly. Cover and let sit at room temperature overnight. The oils from the orange peel will be absorbed into the sugar. The next day, transfer the mixture to a saucepan, add the vinegar, and bring to a boil over high heat. Lower the heat to a simmer and simmer briefly, just until cinnamon and allspice aromas are prominent. Monitor the pan closely to make sure the clove doesn't overpower the blend. Remove from the heat and strain through a fine-mesh strainer into a heatproof jar. Let cool, cap tightly, and refrigerate. It will keep for up to 1 month."
-    - spec: "Habañero Tincture"
-      creator: "Paul MacDonald"
-      makes: "about 1.5 cups"
-      components:
-        - component: "habañero chiles"
-          notes: "thinly sliced, with seeds and stems"
-          measure: "whole"
-          quantity: 8
-        - component: "vodka"
-          notes: "80-proof"
-          measure: "milliliters"
-          quantity: 375
-      notes: "Combine the chiles and vodka in a glass jar, cap tightly, and let steep at room temperature for 24 hours. Scoop out and discard the solids, then strain through a Chemex or paper coffee filter into a clean jar. Cap and store at room temperature. It will last indefinitely."
-    - spec: "Martini (50/50 With All the Garnishes)"
-      creator: "Anu Apte-Elford"
-      makes: "1 Drink"
-      components:
-        - component: "gin"
-          notes: "(preferably London Dry or Plymouth)"
-          measure: "ounces"
-          quantity: 1.5
-        - component: "dry vermouth"
-          notes: "(preferably Noilly Pratt for London Dry or Dolin for Plymouth)"
-          measure: "ounces"
-          quantity: 1.5
-      garnish: "lemon twist, olive, cocktail onion"
-      notes: "Combine the gin and vermouth in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the lemon twist and a pick speared with the olive and onion."
-    - spec: "Sazerac"
-      creator: "Chris Elford"
-      makes: "1 Drink"
-      components:
-        - component: "absinthe"
-          notes: "(for rinsing)"
-          measure: "splash"
-          quantity: 1
-        - component: "high-proof rye whiskey"
-          notes: "(preferably Wild Turkey 101)"
-          measure: "ounces"
-          quantity: 2
-        - component: "rich simple syrup"
-          notes: "(2:1 sugar:water)"
-          measure: "barspoon"
-          quantity: 1
-        - component: "Peychaud's Bitters"
-          measure: "dashes"
-          quantities:
-            - 2
-            - 3
-      garnish: "lemon twist"
-      notes: "Add the absinthe to a chilled old-fashioned class. Roll the glass around to coat the interior of the glass and shake out any excess liquid. Combine the whiskey, simple syrup, and bitters in a mixing glass filled with ice. Stir until chilled and strain into the prepared glass. When it comes to the dilemma of express and discard or leave in the lemon peel, Elford is a \"leave in\" guy, so garnish with a neatly manicured lemon twist."
-    - spec: "Daiquiri"
-      creator: "Chris Elford"
-      makes: "1 Drink"
-      components:
-        - component: "white rum"
-          notes: "(preferably Banks 5 Island)"
-          measure: "ounces"
-          quantity: 2
-        - component: "fresh lime juice"
-          measure: "ounce"
-          quantity: 0.75
-        - component: "rich simple syrup"
-          notes: "(2:1 sugar:water)"
-          measure: "ounce"
-          quantity: 0.5
-      notes: "Combine the rum, lime juice, and simple syrup in a shaker filled with ice. Per Elford, \"shake the hell out of it\" until chilled and strain into a chilled coupe glass."
+source: "Last Call"
+subtitle: "Bartenders on Their Final Drink and the Wisdom and Rituals of Closing Time"
+author: "Brad Thomas Parsons"
+photographer: "Ed Anderson"
+publisher: "Ten Speed Press"
+specs:
+  - spec: "Suze and Tonic"
+    creator: "Lauren Corriveau"
+    makes: "1 Drink"
+    components:
+      - component: "Suze"
+        measure: "ounces"
+        quantity: 2
+      - component: "tonic water"
+    garnish: "lemon twist or lemon wedge"
+    notes: "Add Suze to a chilled collins glass filled with ice. Top with tonic water. Give it a quick stir and garnish with the lemon twist or lemon wedge."
+  - spec: "Susan Lucci"
+    creators:
+      - "Lauren Corriveau"
+      - "Amy Koffsky"
+    makes: "1 Drink"
+    components:
+      - component: "Suze"
+        measure: "ounce"
+        quantity: 0.75
+      - component: "Amaro Lucano"
+        measure: "ounce"
+        quantity: 0.75
+    notes: "Combine the Suze and Amaro Lucano in a shot glass or rocks glass. Knock it back."
+  - spec: "Margarita"
+    creator: "Natasha David"
+    components:
+      - component: "lime wedge"
+        notes: "(for rimming)"
+      - component: "kosher salt"
+        notes: "(for rimming)"
+      - component: "blanco tequila"
+        notes: "(preferably Siete Leguas blanco or El Tesoro platinum)"
+        measure: "ounces"
+        quantity: 2
+      - component: "Cointreau"
+        measure: "ounce"
+        quantity: 1
+      - component: "fresh lime juice"
+        measure: "ounce"
+        quantity: 0.75
+    garnish: "lime wedge"
+    notes: "Cut a small notch in the center of the lime wedge and run it around the rim of a chilled old-fashioned glass, gently squeezing the lime as you go. Pour a small pile of kosher salt onto a plate just wider than the diameter of the glass. Tip the lime-slicked glass onto its side, parallel to the plate, and gently roll the outside edge of half the glass in the salt, coating it with a 1/4-inch-thick layer. Fill the glass with Ice.\nCombine the tequila, Cointreau, and lime juice in a cocktail shaker filled with ice. Shake until chilled and strain into the salt-rimmed old-fashioned glass. Garnish with the lime wedge."
+  - spec: "Manhattan"
+    creator: "Aaron Polsky"
+    makes: "1 Drink"
+    components:
+      - component: "rye whiskey"
+        notes: "(preferably 18-year-old Sazerac)"
+        measure: "ounces"
+        quantity: 2
+      - component: "Cocchi Vermouth di Torino"
+        measure: "ounce"
+        quantity: 1
+      - component: "Angostura bitters"
+        measure: "dash"
+        quantity: 1
+    garnish: "3 Luxardo cherries"
+    notes: "Combine the whiskey, vermouth, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the cherries on a pick."
+  - spec: "French 75"
+    creator: "William Elliott"
+    makes: "1 Drink"
+    components:
+      - component: "Cognac"
+        notes: "(preferably Gourry de Chadeville)"
+        measure: "ounce"
+        quantity: 1
+      - component: "simple syrup"
+        notes: "(1:1 sugar:water)"
+        measure: "ounce"
+        quantity: 0.25
+      - component: "fresh lemon juice"
+        measure: "ounce"
+        quantity: 0.25
+      - component: "Champagne"
+        notes: "(preferably Bourgeois-Diaz), chilled"
+    garnish: "lemon twist"
+    notes: "Combine the Cognac, simple syrup, and lemon juice in a cocktail shaker filled with ice. Shake until chilled and strain into a chilled flute. Top with Champagne. Garnish with the lemon twist."
+  - spec: "Night Moves"
+    creator: "Guido Martelli"
+    makes: "1 Drink"
+    components:
+      - component: "lambrusco"
+        notes: "(chilled)"
+        measure: "ounces"
+        quantity: 2
+      - component: "Prosecco"
+        notes: "(chilled)"
+        measure: "ounces"
+        quantity: 2
+    notes: "Combine the lambrusco and Prosecco in a rocks glass. Salute!"
+  - spec: "Martini (Extra Dry)"
+    creator: "Guido Martelli"
+    makes: "1 Drink"
+    components:
+      - component: "London dry gin"
+        notes: "(preferably Bombay Dry Gin)"
+        measure: "ounces"
+        quantity: 2.5
+      - component: "dry vermouth"
+        notes: "(preferably Dolin Dry Vermouth de Chambéry)"
+        measure: "ounce"
+        quantity: 0.5
+      - component: "orange bitters"
+        measure: "dashes"
+        quantity: 2
+    garnish: "lemon twist"
+    notes: "Combine the gin, vermouth, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the lemon twist."
+  - spec: "Recoil"
+    creator: "Dylan O'Brien"
+    makes: "1 Drink"
+    components:
+      - component: "bourbon"
+        notes: "(preferably Bulleit)"
+        measure: "ounces"
+        quantity: 2
+      - component: "St-Germain elderflower liqueur"
+        measure: "ounce"
+        quantity: 0.75
+      - component: "fresh lime juice"
+        measure: "ounce"
+        quantity: 0.5
+      - component: "Ginger beer"
+        notes: "(preferably Fever-Tree)"
+    garnish: "lime wheel"
+    notes: "Combine the bourbon, elderflower liqueur, and lime juice in a cocktail shaker filled with ice. Shake until chilled and strain into a pint-size Mason jar filled with ice. Top with ginger beer. Garnish with the lime wheel."
+  - spec: "Revolver"
+    creator: "Jon Santer"
+    makes: "1 Drink"
+    components:
+      - component: "bourbon"
+        notes: "(preferably Bulleit)"
+        measure: "ounces"
+        quantity: 2
+      - component: "Tia Maria coffee liqueur"
+        measure: "ounce"
+        quantity: 0.5
+      - component: "orange bitters"
+        measure: "dashes"
+        quantity: 2
+    garnish: "flamed orange twist"
+    notes: "Combine the bourbon, coffee liqueur, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the flamed orange twist."
+  - spec: "Last Word"
+    creator: "Joseph Stinchcomb"
+    makes: "1 Drink"
+    components:
+      - component: "green Chartreuse"
+        measure: "ounce"
+        quantity: 1
+      - component: "gin"
+        notes: "(preferably London Dry style, like Beefeater or Tanqueray)"
+        measure: "ounce"
+        quantity: 0.75
+      - component: "maraschino liqueur"
+        measure: "ounce"
+        quantity: 0.5
+      - component: "fresh lime juice"
+        measure: "ounce"
+        quantity: 0.75
+    notes: "Combine the Chartreuse, gin, maraschino liqueur, and lime juice in a cocktail shaker filled with ice and shake until chilled. Strain into a chilled coupe glass."
+  - spec: "The Clyde"
+    creator: "Joseph Stinchcomb"
+    makes: "1 Drink"
+    components:
+      - component: "blanco tequila"
+        measure: "ounces"
+        quantity: 2
+      - component: "Roobios Tea Syrup"
+        notes: "(recipe follows)"
+        measure: "ounce"
+        quantity: 0.75
+      - component: "fresh lime juice"
+        measure: "ounce"
+        quantity: 0.75
+      - component: "Angostura bitters"
+        measure: "dashes"
+        quantity: 2
+    garnish: "fresh mint sprig"
+    notes: "Combine the tequila, tea syrup, lime juice, and bitters in a cocktail shaker filled with ice and shake until chilled. Strain into a chilled double old-fashioned glass over a large ice cube. Garnish with the mint sprig."
+  - spec: "Roobios Tea Syrup"
+    creator: "Joseph Stinchcomb"
+    makes: "2 cups"
+    components:
+      - component: "roobios tea"
+        measure: "bags"
+        quantity: 6
+      - component: "boiling water"
+        measure: "cups"
+        quantity: 1.5
+      - component: "sugar"
+        measure: "cups"
+        quantity: 1.5
+    notes: "Steep 6 roobios tea bags in 1.5 cups boiling water for 8 to 10 minutes. Discard the tea bags, add 1.5 cups sugar, and stir until the sugar dissolves. Let cool completely and store in a tightly capped glass jar. The syrup will keep in the refrigerator for up to 1 month."
+  - spec: "Sazerac"
+    creator: "Greg Best"
+    makes: "1 Drink"
+    components:
+      - component: "absinthe or Herbsaint"
+        notes: "(for rinsing, or do as Best does and just leave it in there)"
+        measure: "ounce"
+        quantity: 0.5
+      - component: "rye whiskey"
+        notes: "(preferably barrel proof)"
+        measure: "ounces"
+        quantity: 2
+      - component: "simple syrup"
+        notes: "(1:1 sugar:water)"
+        measure: "ounce"
+        quantity: 0.25
+      - component: "Peychaud's Bitters"
+        measure: "dashes"
+        quantity: 2
+      - component: "Angostura Bitters"
+        measure: "dashes"
+        quantity: 2
+    garnish: "lemon twist"
+    notes: "Add the absinthe to a chilled old-fashioned glass. Roll the glass around to coat the interior of the glass and shake out any excess liquid. Combine the whiskey, simple syrup, and both bitters in a mixing glass filled with ice. Stir until chilled and strain into the prepared glass. Express and garnish with the lemon twist."
+  - spec: "Death Row Sazerac"
+    creator: "Greg Best"
+    makes: "1 Drink"
+    components:
+      - component: "absinthe or Herbsaint"
+        notes: "(for rinsing, or do as Best does and just leave it in there)"
+        measure: "ounce"
+        quantity: 1
+      - component: "rye whiskey"
+        notes: "(preferably barrel proof)"
+        measure: "ounces"
+        quantity: 4.5
+      - component: "simple syrup"
+        notes: "(1:1 sugar:water)"
+        measure: "ounce"
+        quantity: 1
+      - component: "Peychaud's Bitters"
+        measure: "dashes"
+        quantity: 5
+      - component: "Angostura Bitters"
+        measure: "dashes"
+        quantity: 5
+    garnish: "lemon twist"
+    notes: "Add the absinthe to a chilled old-fashioned glass. Roll the glass around to coat the interior of the glass and shake out any excess liquid. Combine the whiskey, simple syrup, and both bitters in a mixing glass filled with ice. Stir until chilled and strain into the prepared glass. Express and garnish with the lemon twist."
+  - spec: "Grasshopper"
+    creator: "Jeffrey Morgenthaler"
+    makes: "1 Drink"
+    components:
+      - component: "green crème de menthe"
+        measure: "ounces"
+        quantity: 1.5
+      - component: "white crème de cacao"
+        measure: "ounces"
+        quantity: 1.5
+      - component: "half-and-half"
+        measure: "ounce"
+        quantity: 1
+      - component: "Fernet-Branca"
+        measure: "teaspoon"
+        quantity: 1
+      - component: "sea salt"
+        measure: "pinch"
+        quantity: 1
+      - component: "vanilla ice cream"
+        measure: "cup"
+        quantity: 0.5
+    garnish: "fresh mint sprig"
+    notes: "Combine the crème de menthe, crème de cacao, half-and-half, Fernet-Branca, salt, ice cream, and 1 cup crushed ice in a blender and blend on high speed until smooth. Pour into a tall chilled glass and garnish with the mint sprig."
+  - spec: "Appetizer A La Italienne"
+    creator: "Ezra Star"
+    makes: "1 Drink"
+    components:
+      - component: "Cocchi Vermouth di Torino"
+        measure: "ounces"
+        quantity: 2
+      - component: "Fernet-Branca"
+        measure: "ounce"
+        quantity: 1
+      - component: "absinthe"
+        notes: "(preferably Kübler absinthe)"
+        measure: "ounce"
+        quantity: 1
+      - component: "Demerara simple syrup"
+        notes: "(1:1 Demerara sugar: water)"
+        measure: "ounce"
+        quantity: 0.25
+    notes: "Combine the vermouth, Fernet-Branca, absinthe, and simple syrup in a mixing glass filled with ice. Stir until chilled and strain into a chilled mug or cup."
+  - spec: "Iced Tea"
+    creator: "Damon Boelte"
+    makes: "1 gallon"
+    components:
+      - component: "Lipton tea"
+        measure: "bags"
+        quantity: 9
+      - component: "simple syrup"
+        measure: "\"church it up\""
+        quantity: 1
+      - component: "Bénédictine"
+        measure: "splash"
+        quantity: 1
+    garnish: "slices of orange and lemon and fresh mint"
+    notes: "Place 3 Lipton family-size tea bags or 9 Lipton regular-size tea bags in a clean gallon jar and fill with cold water. Cap loosely and place in the sunshine for 3 to 4 hours. Remove the tea bags. Refrigerate within 5 hours of brewing. Serve in a tall glass over ice. \"Church it up\" with sugar or simple syrup and a splash of Bénédictine. Garnish with slices of orange and lemon and with fresh mint."
+  - spec: "Hard Start"
+    creator: "Damon Boelte"
+    makes: "1 Drink"
+    components:
+      - component: "Fernet-Branca"
+        measure: "ounce"
+        quantity: 0.5
+      - component: "Brancamenta"
+        measure: "ounce"
+        quantity: 0.5
+    notes: "Combine the Fernet-Branca and Brancamenta in a shot glass or chilled rocks glass. Knock it back. Boelte always keeps a pre-batched bottle of Hard Starts at his bar, in his home kitchen, for gifts, and for camping and beach trips."
+  - spec: "Old-fashioned"
+    creator: "Briana Volk"
+    makes: "1 Drink"
+    components:
+      - component: "rye whiskey"
+        notes: "(preferably Old Grand-Dad Bonded)"
+        measure: "ounces"
+        quantity: 2
+      - component: "rich simple syrup"
+        notes: "(2:1 sugar:water)"
+        measure: "teaspoon"
+        quantity: 1
+      - component: "Angostura bitters"
+        measure: "dashes"
+        quantity: 2
+    garnish: "cocktail cherry and orange twist"
+    notes: "Combine the whiskey, simple syrup, and bitters in a chilled double old-fashioned glass. Add a large cube and stir. Garnish with the cherry and orange twist."
+  - spec: "Trident"
+    creator: "Andrew Volk"
+    makes: "1 Drink"
+    components:
+      - component: "aquavit"
+        notes: "(preferably House Spirits Krogstad)"
+        measure: "ounce"
+        quantity: 1
+      - component: "Cynar"
+        measure: "ounce"
+        quantity: 1
+      - component: "fino sherry"
+        measure: "ounce"
+        quantity: 1
+      - component: "peach bitters"
+        measure: "dashes"
+        quantity: 2
+    garnish: "lemon twist"
+    notes: "Combine the aquavit, Cynar, sherry, and bitters in a mixing glass filled with ice. Srit until chilled and strain into a chilled coupe glass. Garnish with the lemon twist."
+  - spec: "Mezcal Negroni"
+    creator: "Brian Bartels"
+    makes: "1 Drink"
+    components:
+      - component: "mezcal"
+        notes: "(preferably Del Maguey Vida)"
+        measure: "ounce"
+        quantity: 1
+      - component: "Campari"
+        measure: "ounce"
+        quantity: 1
+      - component: "sweet vermouth"
+        measure: "ounce"
+        quantity: 1
+    garnish: "orange twist"
+    notes: "Build the mezcal, Campari, and sweet vermouth in an old-fashioned glass and give it a healthy 10- to 15-second stir. Garnish with the orange twist. Sip and smile and think of friends near and far."
+  - spec: "Negroni"
+    creator: "Shelby Allison"
+    makes: "1 Drink"
+    components:
+      - component: "Fords gin"
+        measure: "ounces"
+        quantity: 2
+      - component: "Campari"
+        measure: "ounce"
+        quantity: 0.75
+      - component: "Lustau vermut rojo"
+        measure: "ounce"
+        quantity: 0.75
+    garnish: "orange twist"
+    notes: "Build the gin, Campari, and vermut rojo in an old-fashioned glass filled with ice and stir until chilled. Garnish with the orange twist."
+  - spec: "Ti' Punch"
+    creator: "Paul McGee"
+    makes: "1 Drink"
+    components:
+      - component: "lime"
+        notes: "make sure it includes a small amount of flesh"
+        measure: "quarter-sized disk"
+        quantity: 1
+      - component: "Martinique cane syrup"
+        measure: "barspoon"
+        quantity: 1
+      - component: "Neisson L'Esprit rhum agricole blanc"
+        measure: "ounces"
+        quantity: 2
+    notes: "Squeeze the lime disk over an old-fashioned glass and drop it into the glass. Add the cane syrup and, using a barspoon, press against the lime disk to release its oils and integrate them with the syrup. Add a large ice cube and pour in the rhum. Give it a quick stir to dilute and cool down."
+  - spec: "The Assassin's Handbook"
+    creator: "Paul MacDonald"
+    makes: "1 Drink"
+    components:
+      - component: "Jamaican rum"
+        notes: "(preferably Appleton Signature Blend)"
+        measure: "ounce"
+        quantity: 1
+      - component: "Cognac"
+        notes: "(preferably Gilles Brisson VS)"
+        measure: "ounce"
+        quantity: 0.75
+      - component: "Mulled Wine Shrub"
+        notes: "(recipe follows)"
+        measure: "ounce"
+        quantity: 0.75
+      - component: "Averna"
+        measure: "ounce"
+        quantity: 0.5
+      - component: "Habañero Tincture"
+        notes: "(recipe follows)"
+        measure: "ounce"
+        quantity: 0.25
+    garnish: "orange twist"
+    notes: "Combine the rum, Cognac, shrub, Averna, and tincture in a mixing glass filled with ice and stir until chilled. Strain into a double old-fashioned class over a large ice cube. Garnish with the orange twist."
+  - spec: "Mulled Wine Shrub"
+    creator: "Paul MacDonald"
+    makes: "about 3 cups"
+    components:
+      - component: "granulated sugar"
+        measure: "cup"
+        quantity: 1
+      - component: "Demerara sugar"
+        measure: "cup"
+        quantity: 1
+      - component: "cinnamon stick"
+        notes: "splintered"
+        measure: "whole"
+        quantity: 1
+      - component: "nutmeg"
+        notes: "roughly cut"
+        measure: "whole"
+        quantity: 1
+      - component: "whole cloves"
+        measure: "teaspoon"
+        quantity: 1
+      - component: "allspice berries"
+        measure: "teaspoon"
+        quantity: 1
+      - component: "juniper berries"
+        measure: "teaspoon"
+        quantity: 1
+      - component: "star anise"
+        measure: "pod"
+        quantity: 1
+      - component: "peel of orange"
+        notes: "cut into wide strips"
+        measure: "whole"
+        quantity: 1
+      - component: "red wine vinegar"
+        measure: "cups"
+        quantity: 2
+    notes: "Combine both sugars, the cinnamon, nutmeg, cloves, allspice, juniper, star anise, and orange peel in a bowl and muddle lightly. Cover and let sit at room temperature overnight. The oils from the orange peel will be absorbed into the sugar. The next day, transfer the mixture to a saucepan, add the vinegar, and bring to a boil over high heat. Lower the heat to a simmer and simmer briefly, just until cinnamon and allspice aromas are prominent. Monitor the pan closely to make sure the clove doesn't overpower the blend. Remove from the heat and strain through a fine-mesh strainer into a heatproof jar. Let cool, cap tightly, and refrigerate. It will keep for up to 1 month."
+  - spec: "Habañero Tincture"
+    creator: "Paul MacDonald"
+    makes: "about 1.5 cups"
+    components:
+      - component: "habañero chiles"
+        notes: "thinly sliced, with seeds and stems"
+        measure: "whole"
+        quantity: 8
+      - component: "vodka"
+        notes: "80-proof"
+        measure: "milliliters"
+        quantity: 375
+    notes: "Combine the chiles and vodka in a glass jar, cap tightly, and let steep at room temperature for 24 hours. Scoop out and discard the solids, then strain through a Chemex or paper coffee filter into a clean jar. Cap and store at room temperature. It will last indefinitely."
+  - spec: "Martini (50/50 With All the Garnishes)"
+    creator: "Anu Apte-Elford"
+    makes: "1 Drink"
+    components:
+      - component: "gin"
+        notes: "(preferably London Dry or Plymouth)"
+        measure: "ounces"
+        quantity: 1.5
+      - component: "dry vermouth"
+        notes: "(preferably Noilly Pratt for London Dry or Dolin for Plymouth)"
+        measure: "ounces"
+        quantity: 1.5
+    garnish: "lemon twist, olive, cocktail onion"
+    notes: "Combine the gin and vermouth in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the lemon twist and a pick speared with the olive and onion."
+  - spec: "Sazerac"
+    creator: "Chris Elford"
+    makes: "1 Drink"
+    components:
+      - component: "absinthe"
+        notes: "(for rinsing)"
+        measure: "splash"
+        quantity: 1
+      - component: "high-proof rye whiskey"
+        notes: "(preferably Wild Turkey 101)"
+        measure: "ounces"
+        quantity: 2
+      - component: "rich simple syrup"
+        notes: "(2:1 sugar:water)"
+        measure: "barspoon"
+        quantity: 1
+      - component: "Peychaud's Bitters"
+        measure: "dashes"
+        quantities:
+          - 2
+          - 3
+    garnish: "lemon twist"
+    notes: "Add the absinthe to a chilled old-fashioned class. Roll the glass around to coat the interior of the glass and shake out any excess liquid. Combine the whiskey, simple syrup, and bitters in a mixing glass filled with ice. Stir until chilled and strain into the prepared glass. When it comes to the dilemma of express and discard or leave in the lemon peel, Elford is a \"leave in\" guy, so garnish with a neatly manicured lemon twist."
+  - spec: "Daiquiri"
+    creator: "Chris Elford"
+    makes: "1 Drink"
+    components:
+      - component: "white rum"
+        notes: "(preferably Banks 5 Island)"
+        measure: "ounces"
+        quantity: 2
+      - component: "fresh lime juice"
+        measure: "ounce"
+        quantity: 0.75
+      - component: "rich simple syrup"
+        notes: "(2:1 sugar:water)"
+        measure: "ounce"
+        quantity: 0.5
+    notes: "Combine the rum, lime juice, and simple syrup in a shaker filled with ice. Per Elford, \"shake the hell out of it\" until chilled and strain into a chilled coupe glass."

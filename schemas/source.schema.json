@@ -5,7 +5,7 @@
   "description": "A publication containing cocktail specs",
   "type": "object",
   "properties": {
-    "title": {
+    "source": {
       "description": "The title of the publication",
       "type": "string"
     },
