@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://paperspec.app/spec.schema.json",
+  "title": "spec",
+  "description": "A specification of the components of a cocktail or other component",
+  "type": "object",
+  "properties": {}
+}
