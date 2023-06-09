@@ -4,5 +4,22 @@
   "title": "component",
   "description": "An ingredient with a measure and quantity to form a part of a cocktail",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "component": {
+      "description": "The product or ingredient used in the cocktail",
+      "type": "string"
+    },
+    "notes": {
+      "description": "Subtext or other notes on the use of the component",
+      "type": "string"
+    },
+    "measure": {
+      "description": "The way in which to measure the component going into the cocktail",
+      "type": "string"
+    },
+    "quantity": {
+      "description": "The amount (of the measure) of the component to be used in the cocktail",
+      "type": "number"
+    }
+  }
 }
