@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://paperspec.app/source.schema.json",
+  "$id": "https://paperspec.app/schemas/source.schema.json",
   "title": "source",
   "description": "A publication containing cocktail specs",
   "type": "object",
@@ -50,6 +50,13 @@
     "identifiers": {
       "description": "The identifying number of the publication, in ISBN format",
       "type": "string"
+    },
+    "specs": {
+      "description": "A list of Specs found in the source",
+      "type": "array",
+      "items": {
+        "$ref": "/schemas/spec.schema.json"
+      }
     }
   },
   "allOf": [

@@ -1,8 +1,69 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://paperspec.app/spec.schema.json",
+  "$id": "https://paperspec.app/schemas/spec.schema.json",
   "title": "spec",
   "description": "A specification of the components of a cocktail or other component",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "spec": {
+      "description": "The name of the Spec",
+      "type": "string"
+    },
+    "creator": {
+      "description": "The creator of the Spec",
+      "type": "string"
+    },
+    "creators": {
+      "description": "The creators of the Spec",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "created": {
+      "description": "The year the Spec was created",
+      "type": "string"
+    },
+    "makes": {
+      "description": "The amount of cocktail or Component that the Spec makes",
+      "type": "string"
+    },
+    "notes": {
+      "description": "The method to make the cockatail using the Spec, and other notes",
+      "type": "string"
+    },
+    "components": {
+      "description": "The Components required to create this Spec",
+      "type": "array",
+      "items": {
+        "$ref": "schemas/component.schema.json"
+      }
+    }
+  },
+  "allOf": [
+    {
+      "requires": [
+        "spec",
+        "components"
+      ]
+    },
+    {
+      "dependentSchemas": {
+        "creator": {
+          "not": {
+            "requires": [
+              "creators"
+            ]
+          }
+        },
+        "creators": {
+          "not": {
+            "requires": [
+              "creator"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }
