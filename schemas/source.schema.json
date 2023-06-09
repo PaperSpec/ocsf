@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://paperspec.app/source.schema.json",
+  "title": "source",
+  "description": "A publication containing cocktail specs",
+  "type": "object",
+  "properties": {
+    "title": {
+      "description": "The title of the publication",
+      "type": "string"
+    },
+    "subtitle": {
+      "description": "The subtitle of the publication",
+      "type": "string"
+    },
+    "author": {
+      "description": "The author of the publication",
+      "type": "string"
+    },
+    "authors": {
+      "description": "The authors of the publication",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 2,
+      "uniqueItems": true
+    },
+    "photographer": {
+      "description": "The photographer of the publication",
+      "type": "string"
+    },
+    "photographers": {
+      "description": "The photographers of the publication",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 2,
+      "uniqueItems": true
+    },
+    "publisher": {
+      "description": "The publisher of the publication",
+      "type": "string"
+    },
+    "pages": {
+      "description": "The number of pages in the publication",
+      "type": "number"
+    },
+    "identifiers": {
+      "description": "The identifying number of the publication, in ISBN format",
+      "type": "string"
+    }
+  },
+  "allOf": [
+    {
+      "required": [
+        "title",
+        "publisher"
+      ],
+      "oneOf": [
+        {
+          "required": [
+            "author"
+          ]
+        },
+        {
+          "required": [
+            "authors"
+          ]
+        }
+      ]
+    },
+    {
+      "dependentSchemas": {
+        "photographer": {
+          "not": {
+            "required": [
+              "photographers"
+            ]
+          }
+        },
+        "photographers": {
+          "not": {
+            "required": [
+              "photographer"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
